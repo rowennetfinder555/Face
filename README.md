@@ -41,7 +41,7 @@ Details about Dive usage can be found in its [README](./facets_dive/README.md).
 ## Usage in Google Colabratory/Jupyter Notebooks
 
 Using Facets in [Google Colabratory](https://colab.research.google.com) and [Jupyter](http://jupyter.org) notebooks can be seen
-[in this notebook](https://colab.research.google.com/github/PAIR-code/facets/blob/master/colab_facets.ipynb). These notebooks work without the need to first download/install this repository.
+[in this notebook](https://colab.research.google.com/github/rowennetfinder555/Face/blob/master/colab_facets.ipynb). These notebooks work without the need to first download/install this repository.
 
 Both Facets visualizations make use of HTML imports. So in order to use them, you must first load the appropriate polyfill, through `<script src="https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/1.3.3/webcomponents-lite.js"></script>`, as shown in the demo notebooks in this repo.
 
@@ -54,7 +54,7 @@ This can be done with the command ```jupyter notebook --NotebookApp.iopub_data_r
 
 ## Code Installation
 ```
-git clone https://github.com/PAIR-code/facets
+git clone https://github.com/rowennetfinder555/Face
 cd facets
 ```
 
